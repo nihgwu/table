@@ -1,0 +1,9 @@
+build/
+examples/
+node_modules/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+index.js
